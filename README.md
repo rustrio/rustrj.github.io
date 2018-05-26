@@ -1,1 +1,1 @@
-# A website of Rust RJ organization.
+# O website da comunidade Rust no Rio de Janeiro.
